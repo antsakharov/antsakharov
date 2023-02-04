@@ -1,4 +1,4 @@
-# Hi!👋 I'm Anton and I'm Python-developer.
+# Hi!👋 My name is Anton and I'm Python-developer.
 
 ### 👨‍🎓 Yandex.Practicum graduate
 
