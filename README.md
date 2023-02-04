@@ -1,5 +1,5 @@
 # Hi!👋 I'm Anton and I'm Python-developer.
-***
+
 ### Yandex.Practicum graduate
 
 ### Languages and Tools: Python/Django/Django-REST-Framework/PostgreSQL/Docker/  Yandex.Cloud/HTML/CSS/Gunicorn/Nginx/Linux/Unittest
