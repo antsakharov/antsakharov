@@ -2,7 +2,7 @@
 
 ### Yandex.Practicum graduate
 
-### Languages and Tools: Python/Django/Django-REST-Framework/PostgreSQL/Docker/  Yandex.Cloud/HTML/CSS/Gunicorn/Nginx/Linux/Unittest
+### :page_with_curl: Languages and Tools: Python/Django/Django-REST-Framework/PostgreSQL/Docker/  Yandex.Cloud/HTML/CSS/Gunicorn/Nginx/Linux/Unittest
 
 ### 📫 How to reach me: https://t.me/av_sakharov
 <!--
