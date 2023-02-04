@@ -1,5 +1,7 @@
 # Hi!👋 I'm Anton.Python-developer.
-
+##- Yandex.Practicum graduate
+##- Languages and Tools:Python/Django/Django-REST-Framework/PostgreSQL/Docker/Yandex.Cloud/HTML/CSS/Gunicorn/Nginx/Linux/Unittest
+##- 📫 How to reach me:
 <!--
 **antsakharov/antsakharov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
