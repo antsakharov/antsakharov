@@ -1,8 +1,8 @@
 # Hi!👋 I'm Anton and I'm Python-developer.
 
-### :mortar_board: Yandex.Practicum graduate
+### 🎓 Yandex.Practicum graduate
 
-### :page_with_curl: Languages and Tools: Python/Django/Django-REST-Framework/PostgreSQL/Docker/  Yandex.Cloud/HTML/CSS/Gunicorn/Nginx/Linux/Unittest
+### 📄 Languages and Tools: Python/Django/Django-REST-Framework/PostgreSQL/Docker/  Yandex.Cloud/HTML/CSS/Gunicorn/Nginx/Linux/Unittest
 
 ### 📫 How to reach me: https://t.me/av_sakharov
 <!--
