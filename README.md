@@ -1,4 +1,5 @@
-# Hi!👋 My name is Anton and I'm Python-developer.
+# Hi!👋 ![image](https://user-images.githubusercontent.com/109112983/216790560-8b4ba258-15b3-43eb-b162-995586722826.png)
+My name is Anton and I'm Python-developer.
 
 ### 👨‍🎓 Yandex.Practicum graduate
 
