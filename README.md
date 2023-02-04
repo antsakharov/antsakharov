@@ -1,6 +1,6 @@
 # Hi!👋 I'm Anton and I'm Python-developer.
 
-### Yandex.Practicum graduate
+### 🎓Yandex.Practicum graduate
 
 ### :page_with_curl: Languages and Tools: Python/Django/Django-REST-Framework/PostgreSQL/Docker/  Yandex.Cloud/HTML/CSS/Gunicorn/Nginx/Linux/Unittest
 
